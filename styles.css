@@ -3,5 +3,68 @@
 }
 
 /* write your rules below  this line*/
+.dark-bg {
+    background-color: #1e1e1e;
+}
 
+.light-text {
+    color: #ffffff;
+}
 
+.rounded {
+    border-radius: 10px:
+}
+
+.spaced-out {
+    padding: 20px;
+}
+
+.page-title {
+    font-size: 48px;
+    text-align: center;
+}
+
+.card {
+    background-color: orange;
+    border: 30px;
+    padding: 50px;
+}
+
+.warning {
+    background-color: red;
+}
+
+.img-style {
+    border: 30px;
+    border-left-style: groove;
+    border-right-style: groove;
+}
+
+.badge {
+    background-color: gray;
+    padding: 30px;
+    border-left-style: groove;
+    border-right-style: groove;
+}
+
+#footer-centered {
+    background-color: darkslategrey;
+    color: white;
+    text-align: center;
+}
+
+.dotted-border {
+    border-style: dotted;
+    color: green;
+}
+
+.dashed-border {
+    border-style: dashed;
+    color: chocolate;
+}
+
+#center-about-me {
+    text-align: center;
+    border: 50px;
+    border-style: solid;
+}
